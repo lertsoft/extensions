@@ -529,6 +529,7 @@
 /extensions/display-reinitializer                                   @JosNun
 /extensions/displayplacer                                           @eluce2
 /extensions/distraction-tracker                                     @danieldeichfuss
+/extensions/django-docs                                             @JensAstrup
 /extensions/djangopackages                                          @saadmk11
 /extensions/dlmoji                                                  @Hydrapse
 /extensions/do-not-disturb                                          @Yakitrak @quanru @mikikiv @LitoMore
@@ -2267,7 +2268,7 @@
 /extensions/tunnelblick                                             @SamuelNitsche @vkhitrin
 /extensions/tuple                                                   @inxilpro
 /extensions/turso                                                   @Spioune
-/extensions/tuya-smart                                              @AndresMorelos
+/extensions/tuya-smart                                              @AndresMorelos @anwarulislam
 /extensions/tv2---denmark                                           @mSarheed
 /extensions/tw-colorsearch                                          @magicjaqk @ridemountainpig @sebdanielsson
 /extensions/twenty                                                  @Nabhag8848 @chrisdadev13 @xmok @0xdhrv
